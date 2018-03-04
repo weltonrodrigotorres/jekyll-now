@@ -1,10 +1,12 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Exemplo de site criado diretamente no GitHub Pages, hospedado de graça e sem ter que tocar numa linha de código no terminal.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![]({{site.baseurl}}/https://slack-imgs.com/?c=1&url=http%3A%2F%2F29.media.tumblr.com%2Ftumblr_lsvczkC8e01qzgqodo1_500.jpg)
+
+O jeito mais fácil de começar é editar esta postagem. Vá na pasta /\_posts/ e atualize o conteúdo do arquivo Hello World.
